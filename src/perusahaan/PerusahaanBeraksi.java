@@ -15,7 +15,7 @@ public class PerusahaanBeraksi {
         Raffi.setNama("Muhammad Hendryan Raffi");
         Raffi.setJabatan("Programmer");
         
-        ((Programmer)Raffi).setJamLembur(50);
+        ((Programmer)Raffi).setJamLembur(70);
         Raffi.hitungGaji();
         Raffi.tampilInfo();
     }
